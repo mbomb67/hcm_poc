@@ -7,3 +7,13 @@ This document will guide you through the process of deploying CloudBolt in a VMw
 
 ## Supporting Resources
 Documentation: [VMware OVA Deployment](https://docs.cloudbolt.io/articles/#!cloudbolt-latest-docs/deploy-a-virtual-appliance)
+Download OVA from here: [CloudBolt Releases](https://support.cloudbolt.io/cloudbolt/s/topic/0TO5c000001MolrGAC/releases)
+
+## Pre-requisites
+- Access to a VMware environment with the ability to deploy an OVA file.
+- CloudBolt OVA file.
+
+## Video Tutorial
+
+
+## Walkthrough
