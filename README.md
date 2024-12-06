@@ -1,3 +1,4 @@
+![cloudbolt_new_logo](https://github.com/user-attachments/assets/88598df7-c32d-4123-a33b-414f3fc7d525)
 # Welcome to the CloudBolt Hybrid Cloud Management POC Enablement Repository
 
 ## Introduction
