@@ -5,5 +5,4 @@
 # CloudBolt AWS Marketplace Deployment
 This document will guide you through the process of deploying CloudBolt in an AWS environment using the AWS Marketplace.
 
-## Documentation
-[AWS Marketplace Deployment](https://docs.cloudbolt.io/articles/#!cloudbolt-latest-docs/deploy-in-aws)
+Documentation: [AWS Marketplace Deployment](https://docs.cloudbolt.io/articles/#!cloudbolt-latest-docs/deploy-in-aws)
