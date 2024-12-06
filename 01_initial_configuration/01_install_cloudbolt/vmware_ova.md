@@ -14,8 +14,6 @@ Download OVA from here: [CloudBolt Releases](https://support.cloudbolt.io/cloudb
 - CloudBolt OVA file.
 
 ## Video Tutorial
-https://github.com/user-attachments/assets/487b3299-4ac0-4e19-9901-fb52b0bac75f
-
-
+[Video Tutorial](https://github.com/user-attachments/assets/487b3299-4ac0-4e19-9901-fb52b0bac75f)
 
 ## Walkthrough
