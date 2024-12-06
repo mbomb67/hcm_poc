@@ -1,5 +1,5 @@
 ![CloudBoltLogoDark80px](https://github.com/user-attachments/assets/66cf699d-6792-4d67-b34c-d153bd92944e)
-# Welcome to the CloudBolt Hybrid Cloud Management POC Enablement Repository
+# Welcome to the CloudBolt Hybrid Cloud Management POC Content
 
 ## Introduction
 This repository contains a set of documents and scripts to help you set up a CloudBolt Hybrid Cloud Management (HCM) Proof of Concept (POC) environment. The documents are organized in a way that will help you quickly set up a POC environment and demonstrate the key features of CloudBolt HCM.
