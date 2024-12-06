@@ -5,4 +5,5 @@
 # CloudBolt Manual Installation
 This document will guide you through the process of manually installing CloudBolt on a Linux server.
 
+## Supporting Resources
 Documentation: [Manual Installation on Enterprise Linux 8 Operating System](https://docs.cloudbolt.io/articles/#!cloudbolt-latest-docs/deploy-with-installer)
